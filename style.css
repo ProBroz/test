@@ -13,7 +13,6 @@
 
 .splash { /*Will show up after it's connected*/
     background-image: url(https://tigerz.b-cdn.net/file/splash.png);
-    background-size: auto;
 }
 
 .watermark {

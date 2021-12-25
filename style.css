@@ -1,0 +1,22 @@
+.background { /* Will show up while it's connecting */
+    /* background: center no-repeat url(https://user-images.githubusercontent.com/42086657/146123631-0a5f56e8-5828-42cc-af6f-a6a349c6f067.jpg); */
+    background-color: black;
+}
+
+.logo {
+    background-image: url(https://user-images.githubusercontent.com/42086657/145381482-d6484d83-3aa3-434b-904d-513fc83ad5fd.png);
+}
+
+.progressBar {
+    background-color: rgb(255, 65, 65);
+}
+
+.splash { /*Will show up after it's connected*/
+    background-image: url(https://tigerz.b-cdn.net/file/splash.png);
+    background-size: auto;
+}
+
+.watermark {
+    background-image: url(https://tigerz.b-cdn.net/file/yesmovies-icon-pink.png);
+    background-size: 57px 57px;
+}
